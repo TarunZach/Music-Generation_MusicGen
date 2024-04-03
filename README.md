@@ -71,7 +71,7 @@ To run the provided code, follow these steps:
    !pip install --upgrade torchaudio
    ```
 
-2. **Run the Notebook:**
+2. **Run the Notebook**
 
 
    
